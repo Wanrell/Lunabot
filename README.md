@@ -1,2 +1,2 @@
-# Lunabot
-Lunabot is a useful bot that can be seen on the Lunabox Discord server.
+# Daydreamer
+Daydreamer is a useful bot that can be seen on the Jungle Discord server.
